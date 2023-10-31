@@ -1,54 +1,30 @@
-﻿web-scraper-order,web-scraper-start-url,productname_raw,price_raw,price_per_kg_raw,weight_raw
-"1698742722-1","https://www.coop.ch/de/search?page=3&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Gelierzucker Suisse Garantie","2.40","2.40/1kg","1kg"
-"1698742722-2","https://www.coop.ch/de/search?page=3&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Betty Bossi Hagelzucker","1.30","0.52/100g","250g"
-"1698742725-3","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Sapori d'Italia Pastamehl","3.50","3.50/1kg","1kg"
-"1698742725-4","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Fairtrade Kokosmehl glutenfrei","2.95","0.98/100g","300g"
-"1698742725-5","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","nu3 Mandelmehl glutenfrei","17.95","4.27/100g","420g"
-"1698742725-6","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Buchweizenmehl","4.50","1.50/100g","300g"
-"1698742725-7","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Echt Entlebuch Zopfmehl","2.45","0.49/100g","500g"
-"1698742725-8","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Heumann Matzenmehl Koscher","7.40","1.85/100g","400g"
-"1698742725-9","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Halbweissmehl","3.20","3.20/1kg","1kg"
-"1698742725-10","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Sapori d'Italia Manitobamehl","2.95","2.95/1kg","1kg"
-"1698742725-11","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Karma Bio Falafel Fertig-Mischung 186G","3.95","2.12/100g","186g"
-"1698742725-12","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Schär Brot-Mix glutenfrei","6.40","6.40/1kg","1kg"
-"1698742725-13","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Morga Bio Flohsamenschalen gemahlen","9.95","2.84/100g","350g"
-"1698742725-14","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Telma Falafel Mix Koscher","5.50","3.06/100g","180g"
-"1698742725-15","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Slow Food Farina Bona","5.75","2.30/100g","250g"
-"1698742725-16","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Prix Garantie Feinkristallzucker","1.30","1.30/1kg","1kg"
-"1698742725-17","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Feinkristallzucker IP Suisse 10x  1kg","8.00","0.80/1kg","10x 1kg"
-"1698742725-18","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Kristallzucker","2.70","2.70/1kg","1kg"
-"1698742725-19","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Betty Bossi Puderzucker","1.70","0.34/100g","500g"
-"1698742725-20","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Fairtrade Rohrohrzucker","2.50","0.42/100g","600g"
-"1698742725-21","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Fairtrade Rohzucker grob","2.30","2.30/1kg","1kg"
-"1698742725-22","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","La Perruche Rohrzucker","3.95","0.53/100g","750g"
-"1698742725-23","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Fairtrade Rohzucker gemahlen","2.30","2.30/1kg","1kg"
-"1698742725-24","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Jacutinga Vollrohrzucker","2.95","0.59/100g","500g"
-"1698742725-25","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Betty Bossi Feinster Zucker","1.80","0.30/100g","600g"
-"1698742725-26","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Betty Bossi Puderzucker Mühle","1.70","0.68/100g","250g"
-"1698742725-27","https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Puderzucker","2.95","0.59/100g","500g"
-"1698742728-28","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Prix Garantie Weissmehl","1.00","1.00/1kg","1kg"
-"1698742728-29","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Weissmehl IP Suisse 10x  1kg","14.50","1.45/1kg","10x 1kg"
-"1698742728-30","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio CH Weissmehl","3.20","3.20/1kg","1kg"
-"1698742728-31","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Sapori d'Italia Pizzamehl","2.95","2.95/1kg","1kg"
-"1698742728-32","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Urdinkelmehl hell","4.80","4.80/1kg","1kg"
-"1698742728-33","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Zopfmehl","3.80","3.80/1kg","1kg"
-"1698742728-34","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Vollkornmehl","3.20","3.20/1kg","1kg"
-"1698742728-35","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Dinkelmehl hell","3.80","3.80/1kg","1kg"
-"1698742728-36","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Campiuns Urdinkel-Vollkornmehl","3.70","0.74/100g","500g"
-"1698742728-37","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Ruchmehl","2.20","2.20/1kg","1kg"
-"1698742728-38","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Zopfmehl IP Suisse","2.40","2.40/1kg","1kg"
-"1698742728-39","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Bauernmehl","2.95","2.95/1kg","1kg"
-"1698742728-40","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Weissmehl Stadtmühle Zürich","2.30","2.30/1kg","1kg"
-"1698742728-41","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Knöpfli-Mehl","3.60","3.60/1kg","1kg"
-"1698742728-42","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","IP Suisse Weissmehl","4.95","1.98/1kg","2.5kg"
-"1698742728-43","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Prix Garantie Zopfmehl","2.00","2.00/1kg","1kg"
-"1698742728-44","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Bio Buchweizenmehl glutenfrei","3.60","0.72/100g","500g"
-"1698742728-45","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Ruchmehl","3.20","3.20/1kg","1kg"
-"1698742728-46","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Betty Bossi Universal Backmehlmix glutenfrei","4.95","4.95/1kg","1kg"
-"1698742728-47","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Bio Kichererbsenmehl glutenfrei","2.95","0.98/100g","300g"
-"1698742728-48","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Reismehl Vollkorn glutenfrei","3.95","0.79/100g","500g"
-"1698742728-49","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Vollkorn Hafermehl","4.50","1.50/100g","300g"
-"1698742728-50","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio CH Weissmehl","1.70","0.34/100g","500g"
-"1698742728-51","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Roggenschrotmehl","3.50","3.50/1kg","1kg"
-"1698742728-52","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Maismehl glutenfrei","3.20","0.64/100g","500g"
-"1698742728-53","https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance","Naturaplan Bio Roggenmehl hell","2.95","2.95/1kg","1kg"
+﻿product_type;web-scraper-order;web-scraper-start-url;productname_raw;price_raw;weight_raw
+flour;1698742722-1;https://www.coop.ch/de/search?page=3&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Gelierzucker Suisse Garantie;2.40;1kg
+flour;1698742725-3;https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Sapori d'Italia Pastamehl;3.50;1kg
+flour;1698742725-9;https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Naturaplan Bio Halbweissmehl;3.20;1kg
+flour;1698742725-10;https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Sapori d'Italia Manitobamehl;2.95;1kg
+flour;1698742725-12;https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Schär Brot-Mix glutenfrei;6.40;1kg
+flour;1698742725-16;https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Prix Garantie Feinkristallzucker;1.30;1kg
+flour;1698742725-17;https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Feinkristallzucker IP Suisse 10x  1kg;8.00;10x 1kg
+flour;1698742725-18;https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Naturaplan Bio Kristallzucker;2.70;1kg
+flour;1698742725-21;https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Fairtrade Rohzucker grob;2.30;1kg
+flour;1698742725-23;https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Fairtrade Rohzucker gemahlen;2.30;1kg
+flour;1698742728-28;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Prix Garantie Weissmehl;1.00;1kg
+flour;1698742728-29;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Weissmehl IP Suisse 10x  1kg;14.50;10x 1kg
+flour;1698742728-30;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Naturaplan Bio CH Weissmehl;3.20;1kg
+flour;1698742728-31;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Sapori d'Italia Pizzamehl;2.95;1kg
+flour;1698742728-32;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Naturaplan Bio Urdinkelmehl hell;4.80;1kg
+flour;1698742728-33;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Naturaplan Bio Zopfmehl;3.80;1kg
+flour;1698742728-34;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Naturaplan Bio Vollkornmehl;3.20;1kg
+flour;1698742728-35;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Dinkelmehl hell;3.80;1kg
+flour;1698742728-37;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Ruchmehl;2.20;1kg
+flour;1698742728-38;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Zopfmehl IP Suisse;2.40;1kg
+flour;1698742728-39;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Naturaplan Bio Bauernmehl;2.95;1kg
+flour;1698742728-40;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Weissmehl Stadtmühle Zürich;2.30;1kg
+flour;1698742728-41;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Naturaplan Bio Knöpfli-Mehl;3.60;1kg
+flour;1698742728-42;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;IP Suisse Weissmehl;4.95;2.5kg
+flour;1698742728-43;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Prix Garantie Zopfmehl;2.00;1kg
+flour;1698742728-45;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Naturaplan Bio Ruchmehl;3.20;1kg
+flour;1698742728-46;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Betty Bossi Universal Backmehlmix glutenfrei;4.95;1kg
+flour;1698742728-51;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Naturaplan Bio Roggenschrotmehl;3.50;1kg
+flour;1698742728-53;https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance;Naturaplan Bio Roggenmehl hell;2.95;1kg
