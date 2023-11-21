@@ -1,0 +1,68 @@
+web-scraper-order,product_type,web-scraper-start-url,productname_raw,price_raw,weight_raw
+1698753392-1,flour,https://www.aldi-now.ch/de/vorr%C3%A4te/backartikel?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=mehl,NATURE SUISSE BIO Halbweissmehl,2.99,1kg
+1698753392-2,flour,https://www.aldi-now.ch/de/vorr%C3%A4te/backartikel?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=mehl,HAPPY HARVEST Zopfmehl,1.99,1kg
+1698753392-3,flour,https://www.aldi-now.ch/de/vorr%C3%A4te/backartikel?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=mehl,HAPPY HARVEST Ruchmehl,2.19,1kg
+1698753392-4,flour,https://www.aldi-now.ch/de/vorr%C3%A4te/backartikel?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=mehl,HAPPY HARVEST Weissmehl,0.99,1kg
+1698753392-5,flour,https://www.aldi-now.ch/de/vorr%C3%A4te/backartikel?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=mehl,"HAPPY HARVEST Brotbackmischung, Vollkornbrot",1.99,1kg
+1698753392-6,flour,https://www.aldi-now.ch/de/vorr%C3%A4te/backartikel?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=mehl,"HAPPY HARVEST Brotbackmischung, Pizzateig",1.99,1kg
+1698753392-7,flour,https://www.aldi-now.ch/de/vorr%C3%A4te/backartikel?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=mehl,"HAPPY HARVEST Brotbackmischung, Sonnenkernbrot",1.99,1kg
+1698753392-8,flour,https://www.aldi-now.ch/de/vorr%C3%A4te/backartikel?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=mehl,"HAPPY HARVEST Weissmehl, revitaminisiert",1.29,1kg
+1698753392-9,flour,https://www.aldi-now.ch/de/vorr%C3%A4te/backartikel?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=mehl,HAPPY HARVEST Dinkel-Vollkornmehl,3.79,1kg
+1698753392-10,flour,https://www.aldi-now.ch/de/vorr%C3%A4te/backartikel?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=mehl,HAPPY HARVEST Dinkel-Spätzlimehl,3.79,1kg
+1698753392-16,flour,https://www.aldi-now.ch/de/vorr%C3%A4te/backartikel?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=mehl,HAPPY HARVEST Dinkelmehl hell,3.79,1kg
+1698753392-17,flour,https://www.aldi-now.ch/de/vorr%C3%A4te/backartikel?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=mehl,NATURE SUISSE BIO Ruchmehl,2.99,1kg
+1698753392-18,flour,https://www.aldi-now.ch/de/vorr%C3%A4te/backartikel?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=mehl,NATURE SUISSE BIO Vollkornmehl,2.99,1kg
+1698742722-1,flour,https://www.coop.ch/de/search?page=3&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Gelierzucker Suisse Garantie,2.4,1kg
+1698742725-3,flour,https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Sapori d'Italia Pastamehl,3.5,1kg
+1698742725-9,flour,https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Naturaplan Bio Halbweissmehl,3.2,1kg
+1698742725-10,flour,https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Sapori d'Italia Manitobamehl,2.95,1kg
+1698742725-12,flour,https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Schär Brot-Mix glutenfrei,6.4,1kg
+1698742725-16,flour,https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Prix Garantie Feinkristallzucker,1.3,1kg
+1698742725-17,flour,https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Feinkristallzucker IP Suisse 10x  1kg,8.0,10x 1kg
+1698742725-18,flour,https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Naturaplan Bio Kristallzucker,2.7,1kg
+1698742725-21,flour,https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Fairtrade Rohzucker grob,2.3,1kg
+1698742725-23,flour,https://www.coop.ch/de/search?page=2&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Fairtrade Rohzucker gemahlen,2.3,1kg
+1698742728-28,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Prix Garantie Weissmehl,1.0,1kg
+1698742728-29,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Weissmehl IP Suisse 10x  1kg,14.5,10x 1kg
+1698742728-30,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Naturaplan Bio CH Weissmehl,3.2,1kg
+1698742728-31,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Sapori d'Italia Pizzamehl,2.95,1kg
+1698742728-32,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Naturaplan Bio Urdinkelmehl hell,4.8,1kg
+1698742728-33,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Naturaplan Bio Zopfmehl,3.8,1kg
+1698742728-34,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Naturaplan Bio Vollkornmehl,3.2,1kg
+1698742728-35,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Dinkelmehl hell,3.8,1kg
+1698742728-37,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Ruchmehl,2.2,1kg
+1698742728-38,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Zopfmehl IP Suisse,2.4,1kg
+1698742728-39,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Naturaplan Bio Bauernmehl,2.95,1kg
+1698742728-40,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Weissmehl Stadtmühle Zürich,2.3,1kg
+1698742728-41,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Naturaplan Bio Knöpfli-Mehl,3.6,1kg
+1698742728-42,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,IP Suisse Weissmehl,4.95,2.5kg
+1698742728-43,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Prix Garantie Zopfmehl,2.0,1kg
+1698742728-45,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Naturaplan Bio Ruchmehl,3.2,1kg
+1698742728-46,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Betty Bossi Universal Backmehlmix glutenfrei,4.95,1kg
+1698742728-51,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Naturaplan Bio Roggenschrotmehl,3.5,1kg
+1698742728-53,flour,https://www.coop.ch/de/search?page=1&pageSize=30&q=Mehl:relevance&text=Mehl&sort=relevance,Naturaplan Bio Roggenmehl hell,2.95,1kg
+1698741806-1,flour,https://www.migros.ch/de/search?query=Mehl,Urdinkel-Mehl,3.8,1kg
+1698741806-2,flour,https://www.migros.ch/de/search?query=Mehl,Urdinkel-Mehl,3.8,1kg
+1698741806-3,flour,https://www.migros.ch/de/search?query=Mehl,Halbweiss - Mehl,4.95,1kg
+1698741806-4,flour,https://www.migros.ch/de/search?query=Mehl,Weissmehl,2.1,1kg
+1698741806-5,flour,https://www.migros.ch/de/search?query=Mehl,Haushaltmehl Weissmehl,1.0,1kg
+1698741806-6,flour,https://www.migros.ch/de/search?query=Mehl,Zopfmehl,2.1,1kg
+1698741806-8,flour,https://www.migros.ch/de/search?query=Mehl,Pizzamehl,2.6,1kg
+1698741806-9,flour,https://www.migros.ch/de/search?query=Mehl,Ruchmehl,2.2,1kg
+1698741806-10,flour,https://www.migros.ch/de/search?query=Mehl,Dinkelmehl,3.75,1kg
+1698741806-11,flour,https://www.migros.ch/de/search?query=Mehl,Halbweissmehl,2.1,1kg
+1698741806-12,flour,https://www.migros.ch/de/search?query=Mehl,Weissmehl,3.0,1kg
+1698741806-13,flour,https://www.migros.ch/de/search?query=Mehl,Zopfmehl,3.8,1kg
+1698741806-14,flour,https://www.migros.ch/de/search?query=Mehl,Chnöpflimehl,3.6,1kg
+1698741806-15,flour,https://www.migros.ch/de/search?query=Mehl,Vollkornmehl,2.5,1kg
+1698741806-16,flour,https://www.migros.ch/de/search?query=Mehl,Mehrkornmehl,3.5,1kg
+1698741806-18,flour,https://www.migros.ch/de/search?query=Mehl,Dinkelvollkornmehl,3.4,1kg
+1698741806-19,flour,https://www.migros.ch/de/search?query=Mehl,Roggenvollkornmehl,3.6,1kg
+1698741806-20,flour,https://www.migros.ch/de/search?query=Mehl,Dinkelmehl,3.75,1kg
+1698741806-30,flour,https://www.migros.ch/de/search?query=Mehl,Aus der Region Bauernmehl,2.8,1kg
+1698741806-32,flour,https://www.migros.ch/de/search?query=Mehl,Aus der Region Halbweissmehl,2.6,1kg
+1698741806-33,flour,https://www.migros.ch/de/search?query=Mehl,Aus der Region Zopfmehl,2.5,1kg
+1698741806-34,flour,https://www.migros.ch/de/search?query=Mehl,Aus der Region Zopfmehl,2.8,1kg
+1698741806-42,flour,https://www.migros.ch/de/search?query=Mehl,Mehlmischung glutenfrei,4.9,1kg
+1698741806-43,flour,https://www.migros.ch/de/search?query=Mehl,Aus der Region Zopfmehl,3.95,1kg
+1698741806-44,flour,https://www.migros.ch/de/search?query=Mehl,Mehlmischung,5.9,1kg
