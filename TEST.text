@@ -1,0 +1,48 @@
+
+import pandas as pd\
+\
+def merge_and_save_csv(input_folder, output_folder, output_filename, supermarket):\
+    # \'dcberpr\'fcfen, ob der Ausgabeordner existiert, andernfalls erstellen\
+    if not os.path.exists(output_folder):\
+        os.makedirs(output_folder)\
+\
+    # Liste der Eingabedateipfade erstellen\
+    input_files = [\
+        'Aldi_Butter.csv',\
+        'Coop_Butter.csv',\
+        'Migros_Butter.csv'\
+    ]\
+\
+    # Liste der vollst\'e4ndigen Pfade zu den Eingabedateien erstellen\
+    input_paths = [os.path.join(input_folder, file) for file in input_files]\
+\
+    # Ausgabepfad erstellen\
+    output_path = os.path.join(output_folder, output_filename)\
+\
+    # \'dcberpr\'fcfen, ob die Ausgabedatei bereits existiert\
+    if not os.path.exists(output_path):\
+        # Lese die einzelnen CSV-Dateien ein\
+        df_list = []\
+        for input_path in input_paths:\
+            df = pd.read_csv(input_path, sep=';')\
+            # F\'fcge die Supermarktinformation hinzu\
+            df['Supermarkt'] = supermarket\
+            df_list.append(df)\
+\
+        # DataFrame aus den eingelesenen Dateien erstellen\
+        merged_df = pd.concat(df_list, ignore_index=True)\
+\
+        # DataFrame in eine neue CSV-Datei schreiben\
+        merged_df.to_csv(output_path, index=False, sep=';')\
+        print(f"Die Datei \{output_path\} wurde erfolgreich erstellt.")\
+    else:\
+        print(f"Die Datei \{output_path\} existiert bereits.")\
+\
+# Beispielaufruf\
+input_folder = 'CSV/'\
+output_folder = 'CSV/prepared/'\
+output_filename = 'Butter_Merged.csv'\
+supermarket = 'Combined Supermarket'\
+\
+merge_and_save_csv(input_folder, output_folder, output_filename, supermarket)\
+}
