@@ -1,0 +1,109 @@
+product_type;web-scraper-order;web-scraper-start-url;productname_raw;price_raw;pieces_raw;Supermarkt;price_per_piece
+eggs;1698755441-1;https://www.aldi-now.ch/de/milchprodukte-&-eier/eier?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=eier;Eier Bodenhaltung Import, 10er-Pack;2.83;10;Aldi;0.28
+eggs;1698755441-2;https://www.aldi-now.ch/de/milchprodukte-&-eier/eier?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=eier;Schweizer Eier Bodenhaltung, 10er-Pack;3.95;10;Aldi;0.4
+eggs;1698755441-3;https://www.aldi-now.ch/de/milchprodukte-&-eier/eier?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=eier;NATURE SUISSE Freilandeier Pic Nic, 6er-Pack;3.49;6;Aldi;0.58
+eggs;1698755441-4;https://www.aldi-now.ch/de/milchprodukte-&-eier/eier?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=eier;RETOUR AUX SOURCES BIO Pic Nic Freilandeier, 4er-Pack;3.95;4;Aldi;0.99
+eggs;1698755441-5;https://www.aldi-now.ch/de/milchprodukte-&-eier/eier?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=eier;NATURE SUISSE Freilandeier, 6er-Pack;3.19;6;Aldi;0.53
+eggs;1698755441-6;https://www.aldi-now.ch/de/milchprodukte-&-eier/eier?ipp=36&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&quantity=1&q=eier;RETOUR AUX SOURCES BIO Freilandeier, 6er-Pack;4.69;6;Aldi;0.78
+eggs;1698742811-1;https://www.coop.ch/de/search?page=1&pageSize=30&q=Eier:relevance&text=Eier&sort=relevance;Naturafarm Eier aus Freilandhaltung 53g+ 10 Stück;6.1;10;Coop;0.61
+eggs;1698742811-2;https://www.coop.ch/de/search?page=1&pageSize=30&q=Eier:relevance&text=Eier&sort=relevance;Naturaplan Bio Eier aus Freilandhaltung 60g+ 6 Stück;5.2;6;Coop;0.87
+eggs;1698742811-3;https://www.coop.ch/de/search?page=1&pageSize=30&q=Eier:relevance&text=Eier&sort=relevance;Bio Eier Schweiz aus Freilandhaltung 10 Stück 53g+;7.95;10;Coop;0.8
+eggs;1698742811-4;https://www.coop.ch/de/search?page=1&pageSize=30&q=Eier:relevance&text=Eier&sort=relevance;Schweizer Eier Bodenhaltung 53g+ 10 Stück;4.1;10;Coop;0.41
+eggs;1698742811-5;https://www.coop.ch/de/search?page=1&pageSize=30&q=Eier:relevance&text=Eier&sort=relevance;Prix Garantie Eier Bodenhaltung 53g+ 15 Stück;4.25;15;Coop;0.28
+eggs;1698742811-6;https://www.coop.ch/de/search?page=1&pageSize=30&q=Eier:relevance&text=Eier&sort=relevance;Naturafarm Eier aus Freilandhaltung 53g+ 6 Stück;3.95;6;Coop;0.66
+eggs;1698742811-7;https://www.coop.ch/de/search?page=1&pageSize=30&q=Eier:relevance&text=Eier&sort=relevance;Naturaplan Bio Eier aus Freilandhaltung 53g+ 4 Stück;3.55;4;Coop;0.89
+eggs;1698742811-8;https://www.coop.ch/de/search?page=1&pageSize=30&q=Eier:relevance&text=Eier&sort=relevance;Naturafarm Eier aus Freilandhaltung 63g+ 4 Stück;2.95;4;Coop;0.74
+eggs;1698742811-9;https://www.coop.ch/de/search?page=1&pageSize=30&q=Eier:relevance&text=Eier&sort=relevance;Eier Freiland Gross 63g+ 6 Stück;4.1;6;Coop;0.68
+eggs;1698742811-10;https://www.coop.ch/de/search?page=1&pageSize=30&q=Eier:relevance&text=Eier&sort=relevance;Naturaplan Bio Regio Eier Züribiet 60g+ 6 Stück;5.95;6;Coop;0.99
+eggs;1698742811-11;https://www.coop.ch/de/search?page=1&pageSize=30&q=Eier:relevance&text=Eier&sort=relevance;Naturafarm Eier aus Freilandhaltung 70g+ 6 Stück;4.95;6;Coop;0.82
+eggs;1698742811-12;https://www.coop.ch/de/search?page=1&pageSize=30&q=Eier:relevance&text=Eier&sort=relevance;Qualité & Prix Eier Freiland Schweiz 10 Stück;4.95;10;Coop;0.5
+eggs;1698742811-13;https://www.coop.ch/de/search?page=1&pageSize=30&q=Eier:relevance&text=Eier&sort=relevance;Naturafarm Eier aus Freilandhaltung 53g+ 12 Stück;6.2;12;Coop;0.52
+eggs;1698742811-14;https://www.coop.ch/de/search?page=1&pageSize=30&q=Eier:relevance&text=Eier&sort=relevance;Naturaplan Bio Eier Schweiz Demeter 6 Stück 53g+;6.8;6;Coop;1.13
+eggs;1698742811-15;https://www.coop.ch/de/search?page=1&pageSize=30&q=Eier:relevance&text=Eier&sort=relevance;Prix Garantie Eier Bodenhaltung 10 Stück;3.95;10;Coop;0.4
+eggs;1698742811-16;https://www.coop.ch/de/search?page=1&pageSize=30&q=Eier:relevance&text=Eier&sort=relevance;Flüssiges Eiweiss;4.5;2;Coop;2.25
+eggs;1698742125-1;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Schweizer Eier M;4.95;10;Migros;0.5
+eggs;1698742125-2;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Schweizer Eier S;3.5;6;Migros;0.58
+eggs;1698742125-3;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Schweizer Eier M;7.95;10;Migros;0.8
+eggs;1698742125-4;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Schweizer Eier M;5.2;6;Migros;0.87
+eggs;1698742125-5;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Schweizer Eier M;3.75;6;Migros;0.62
+eggs;1698742125-6;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Import Eier XS;5.95;15;Migros;0.4
+eggs;1698742125-7;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Schweizer Eier L;3.95;4;Migros;0.99
+eggs;1698742125-8;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Schweizer Eier S;3.95;4;Migros;0.99
+eggs;1698742125-9;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier Import 48g+;4.25;15;Migros;0.28
+eggs;1698742125-10;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Schweizer Eier M;6.8;6;Migros;1.13
+eggs;1698742125-11;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Schweizer Eier M;3.9;6;Migros;0.65
+eggs;1698742125-12;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Import Eier XS;3.9;6;Migros;0.65
+eggs;1698742125-13;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Schweizer Eier M;7.95;12;Migros;0.66
+eggs;1698742125-14;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Schweizer Eier M;5.15;12;Migros;0.43
+eggs;1698742125-15;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Schweizer Eier M;3.95;4;Migros;0.99
+eggs;1698742125-16;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;CH Picknickeier Freilandhaltung;4.95;6;Migros;0.82
+eggs;1698742125-17;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Bio Picknickeier Herbamare;2.95;2;Migros;1.48
+eggs;1698742125-18;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Picknickeier 6 x 50g+;4.65;6;Migros;0.78
+eggs;1698742125-19;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;6 Eier Freilandhaltung 53g+;3.65;6;Migros;0.61
+eggs;1698742125-20;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier aus dem Jura Freiland 10x53g;6.0;10;Migros;0.6
+eggs;1698742125-21;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Migros Bio Eier Freilandhaltung;7.95;10;Migros;0.8
+eggs;1698742125-22;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier aus der Region Freiland, 8x53g+;4.6;8;Migros;0.57
+eggs;1698742125-23;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Ostschweizer Eier Freiland 10x63g+;6.6;10;Migros;0.66
+eggs;1698742125-24;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier Freilandhaltung 63+ IP-SUISSE;0.65;1;Migros;0.65
+eggs;1698742125-25;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier Freiland 53+ IP-SUISSE;6.3;10;Migros;0.63
+eggs;1698742125-26;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier Freilandhaltung 12   53+;7.0;12;Migros;0.58
+eggs;1698742125-27;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Picknickeier Salz 8 x 50g+;6.2;8;Migros;0.78
+eggs;1698742125-28;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Picknickeier Freiland 6 x 45g+;4.55;6;Migros;0.76
+eggs;1698742125-29;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Migros Bio Eier CH 63g+;5.3;6;Migros;0.88
+eggs;1698742125-30;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Schweizer Eier offen Freiland 68+;0.75;1;Migros;0.75
+eggs;1698742125-31;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;10 Schweizer Eier Freilandhaltung 53g+;5.8;10;Migros;0.58
+eggs;1698742125-32;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;4 Picknick-Eier Freilandhaltung 53g+;3.05;4;Migros;0.76
+eggs;1698742125-33;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Migros Bio Eier CH Freiland;4.5;6;Migros;0.75
+eggs;1698742125-34;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;AdR IPR Eier FL 4x68g+;3.15;4;Migros;0.79
+eggs;1698742125-35;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier Aargauer Freiland IP-SUISSE;0.75;1;Migros;0.75
+eggs;1698742125-36;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Picknick Eier 6er Freilandhaltung 53g+;4.25;6;Migros;0.71
+eggs;1698742125-37;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Migros Bio Eier aus der Region 60g+;5.7;6;Migros;0.95
+eggs;1698742125-38;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Migros Bio Eier aus der Region 63g+;5.55;6;Migros;0.92
+eggs;1698742125-39;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Migros Bio Eier aus der Region 53g+;7.95;10;Migros;0.8
+eggs;1698742125-40;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Migros Bio Eier 60g+ Ostschweiz;8.15;10;Migros;0.82
+eggs;1698742125-41;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Migros Bio Eier aus der Region 53g+;3.6;4;Migros;0.9
+eggs;1698742125-42;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Migros Bio Eier aus der Region 53g+;5.35;6;Migros;0.89
+eggs;1698742125-43;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Bio AdR Eier CH FL 60g+;5.95;6;Migros;0.99
+eggs;1698742125-44;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Demeter Eier CH 6 x 53g+;6.8;6;Migros;1.13
+eggs;1698742125-45;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Picknickeier 6 x 50g+ IP-SUISSE;4.5;6;Migros;0.75
+eggs;1698742125-46;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier aus der Region Freiland, 10 x 53g+;6.0;10;Migros;0.6
+eggs;1698742125-47;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier aus der Region Freiland, 4 x 68g+;3.1;4;Migros;0.78
+eggs;1698742125-48;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Picknick-Eier Freiland 6 x 50g+;4.85;6;Migros;0.81
+eggs;1698742125-49;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier aus der Region Freiland, 12 x 53g+;7.15;12;Migros;0.6
+eggs;1698742125-50;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Picknick-Eier Freiland 4 x 53g+;3.05;4;Migros;0.76
+eggs;1698742125-51;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;1. August Eier CH Freiland 6x53g+;3.5;6;Migros;0.58
+eggs;1698742125-52;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Migros Bio Eier 10 x 53g+;8.0;10;Migros;0.8
+eggs;1698742125-53;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Aargauer Eier Freiland 12 x 53g+;7.6;12;Migros;0.63
+eggs;1698742125-54;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Picknick-Eier Freiland 6 x 50g+;4.85;6;Migros;0.81
+eggs;1698742125-55;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Walliser Eier Freiland, 4 x 63g+;2.95;4;Migros;0.74
+eggs;1698742125-56;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Ostschweizer Eier Freiland 12 x 53g+;7.0;12;Migros;0.58
+eggs;1698742125-57;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier Freiland Schweiz 6 x 53g+;3.95;6;Migros;0.66
+eggs;1698742125-58;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Züribieter Eier Freiland 6 x 63g+;4.15;6;Migros;0.69
+eggs;1698742125-59;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Walliser Eier Freiland, 10 x 53g+;5.9;10;Migros;0.59
+eggs;1698742125-60;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Solothurner Eier Freiland 6 x 53g+;3.95;6;Migros;0.66
+eggs;1698742125-61;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Migros Bio Eier CH Freilandhaltung 53g+;7.95;10;Migros;0.8
+eggs;1698742125-62;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Berner Eier einzeln Freiland IP-SUISSE;0.75;1;Migros;0.75
+eggs;1698742125-63;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier Freiland 6 x 53+ IP-SUISSE;3.95;6;Migros;0.66
+eggs;1698742125-64;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier Freiland 6 x 63g+ IP-SUISSE;4.45;6;Migros;0.74
+eggs;1698742125-65;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier Freiland 10 x 53g+ IP-SUISSE;6.0;10;Migros;0.6
+eggs;1698742125-66;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier aus dem Jura CH Freiland, 6 x 63g;4.45;6;Migros;0.74
+eggs;1698742125-67;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier Freiland 6 x 53g+ IP Suisse;3.95;6;Migros;0.66
+eggs;1698742125-68;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Genfer Eier 4 x 63g+ IP-SUISSE;3.5;4;Migros;0.88
+eggs;1698742125-69;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier Freilandhaltung 4 x 63g+ IP-SUISSE;2.9;4;Migros;0.72
+eggs;1698742125-70;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Aargauer Eier 6 x 53g+ IP Suisse;3.95;6;Migros;0.66
+eggs;1698742125-71;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Solothurner Eier 10 x 63g+ IP-SUISSE;6.9;10;Migros;0.69
+eggs;1698742125-72;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Berner Eier 6 x 53g+ IP-SUISSE;3.95;6;Migros;0.66
+eggs;1698742125-73;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Ostschweizer Eier IP-Suisse 6 x 63g+;4.3;6;Migros;0.72
+eggs;1698742125-74;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Aargauer Eier 4 x 63g+ IP-SUISSE;2.9;4;Migros;0.72
+eggs;1698742125-75;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Berner Eier 10 x 63g+ IP-SUISSE;6.9;10;Migros;0.69
+eggs;1698742125-76;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Aargauer Eier 10 x 63g+ IP Suisse;6.9;10;Migros;0.69
+eggs;1698742125-77;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier Schweiz 10 x 63g IP-SUISSE;6.8;10;Migros;0.68
+eggs;1698742125-78;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier Freilandhaltung 10 x 63g+ IP-SUISSE;6.6;10;Migros;0.66
+eggs;1698742125-79;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier Schweiz 4 x 63g IP-SUISSE;2.95;4;Migros;0.74
+eggs;1698742125-80;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Picknickeier +Aromat CH Freiland 2 x 53g+;1.95;2;Migros;0.98
+eggs;1698742125-81;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Eier FL LU 4 x 63+ IP-SUISSE;3.05;4;Migros;0.76
+eggs;1698742125-82;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Berner Eier Freiland 12 x 53g+ IP-SUISSE;7.6;12;Migros;0.63
+eggs;1698742125-83;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Schweizer Wachteleier;5.7;8;Migros;0.71
+eggs;1698742125-84;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Schachtel Offeneier;3.05;4;Migros;0.76
+eggs;1698742125-85;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Früh seier 6 x 68g+ IP-SUISSE;4.5;6;Migros;0.75
+eggs;1698742125-86;https://www.migros.ch/de/search?query=Eier&filter.category=7494731;Import Ostereier Freiland 50g+;4.5;6;Migros;0.75
